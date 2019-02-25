@@ -9,7 +9,7 @@ name: dev.dispatch()
 description: The Code for Canada blog written by developers, for developers.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/code-for-canada/psc-updates/master/images/cfc-web-logo.png
+avatar: https://raw.githubusercontent.com/code-for-canada/dev-dispatch/master/images/cfc-web-logo.png
 
 #
 # Flags below are optional
@@ -19,11 +19,11 @@ avatar: https://raw.githubusercontent.com/code-for-canada/psc-updates/master/ima
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/code4ca/
+  facebook: code4ca
   flickr:
   github: code-for-canada/dev-dispatch
   instagram:
-  linkedin: https://www.linkedin.com/company/code-for-canada
+  linkedin:
   pinterest:
   rss: rss # just type anything here for a working RSS icon
   twitter: code4ca
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://
+url: https://code-for-canada.github.io/dev-dispatch/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
