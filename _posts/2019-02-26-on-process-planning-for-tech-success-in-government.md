@@ -88,9 +88,9 @@ You can't answer these questions without a clear direction based on user and tec
 
 It took a *lot* of work, but we got to a working hypothesis:
 
-{% blockquote January Project Panel Slides %}
+<blockquote>
 We believe that by creating an integrated data platform for Data Supervisors and Traffic Ops, we’ll achieve a seamless count and collision request to warrant process as well as trust and shared understanding.
-{% endblockquote %}
+</blockquote>
 
 Given everything we'd learned, this likely meant a user-facing web application plus some eventual scripting work to automate data intake, validation, and publishing pipelines.  From here, I could plan the webapp tech stack.
 
@@ -148,10 +148,11 @@ See our [Vue webapp template](https://github.com/code-for-canada/bdit-webapp-tem
 
 # Source Control
 
-{% blockquote Jack William Bell https://perl.plover.com/classes/git/samples/slide034.html Linus Torvalds' Greatest Invention %}
+<blockquote cite="https://perl.plover.com/classes/git/samples/slide034.html">
 It is easy to shoot your foot off with git,
 but also easy to revert to a previous foot and merge it with your current leg.
-{% endblockquote %}
+</blockquote>
+<cite>Jack William Bell &mdash; Linus Torvalds' Greatest Invention</cite>
 
 Every development project should start with source control.  In our case, the Big Data Innovation Team uses both private and public repos on Github.  Our project is internal-only, so I made a private repo on Github.
 
@@ -349,10 +350,11 @@ Fantastic!  We can test our application from top to bottom, right out of the gat
 
 # Code Style
 
-{% blockquote John F. Woods https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ comp.lang.c++ %}
+<blockquote cite="https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ">
 Always code as if the guy who ends up maintaining your code will be a
 violent psychopath who knows where you live.  Code for readability.
-{% endblockquote %}
+</blockquote>
+<cite>John F. Woods &mdash; comp.lang.c++</cite>
 
 The Code for Canada fellowship is 10 short months: 4 down, 6 to go.  I might be the only developer on this project right now, but what about after I'm gone?  What if we get another developer on the team mid-fellowship?  (This isn't purely hypothetical: BDIT mentioned we might be able to get 1-2 more devs.)  Professional software development means writing code others can read and modify.
 
