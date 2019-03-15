@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Dev Dispatch!
+author: Evan Savage
 ---
 
 &hellip;the blog written by Code for Canada developer fellows, for developers.
