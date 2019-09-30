@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.eol": "\n",
+    "explorer.confirmDelete": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+		"editor.tabSize": 2,
+		"editor.quickSuggestionsDelay": 250,
+		"telemetry.enableCrashReporter": false,
+		"telemetry.enableTelemetry": false
+	}
+}
